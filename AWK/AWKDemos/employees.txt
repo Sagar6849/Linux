@@ -1,0 +1,5 @@
+Thomsa	  Manager	sales	        40000
+Jason	  Develper	IT		50000
+Sanjay	  Sysadmin	IT		60000
+Nisha	  Manager	IT		70000
+Randy	  DBA		IT		40000

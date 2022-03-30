@@ -1,0 +1,7 @@
+
+101 tanish 10000
+102 manish 20000
+103 kunal  30000
+104 anand  40000
+105 parimal 50000
+
